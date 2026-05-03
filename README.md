@@ -6,7 +6,7 @@ Este diagrama representa a arquitetura de uma aplicação web escalável, altame
 
 ## Diagrama da Arquitetura
 
-![Diagrama de Arquitetura AWS](diagrama.png)
+![Diagrama de Arquitetura AWS](diagrama-2026-05-03.png)
 
 ## Visão Geral da Arquitetura
 
